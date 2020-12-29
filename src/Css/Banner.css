@@ -1,0 +1,9 @@
+.banner-item {
+    Display: flex;
+    justify-content: space-around;
+    padding: 10px 0;
+}
+
+.banner {
+    background: #3a9bbe; 
+}

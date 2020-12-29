@@ -1,0 +1,70 @@
+.serviceSection {
+    padding: 30px;
+}
+
+.serviceSection-h1 {
+    padding-top: 20px;
+    text-align: center;
+    color: #3a9bbe;
+}
+
+.intro-to-services {
+    padding: 20px;
+}
+
+.serviceSection-p {
+    padding: 15px 60px;
+    text-align: center;
+    margin: 0 40px;
+}
+
+.submit-button {
+    background-color: white;
+    height: 35px;
+    width: 100%;
+    border: 1px solid;
+}
+
+.submit-button:hover {
+    background-color: black;
+    border: 1px solid;
+    color: white;
+}
+
+.card-service-section {
+    display: flex;
+    justify-content: center;
+    padding: 0 8% 5%;
+    
+}
+
+.individual-cards {
+    margin: 0 20px;
+    text-align: center;
+}
+
+.individual-card-h3 {
+    text-align: center;
+    padding: 10px;
+} 
+
+.individual-card-p {
+    text-align: center;
+}
+
+  .btn--primary {
+    background-color: #fff;
+    color: #242424;
+    border: 1px solid #3a9bbe;
+  }
+
+  .btn--medium {
+    padding: 8px 20px;
+    font-size: 18px;
+  }
+  .btn--medium:hover {
+    transition: all 0.3s ease-out;
+    background: #fff;
+    color: #242424;
+    transition: 250ms;
+  }
